@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     siteName: 'Lịch Âm Việt Nam',
     images: [
       {
-        url: `${APP_URL}/images/og-image.jpg`, // Path to your Open Graph image in public folder
+        url: `${APP_URL}/images/v_lunar_cal.png`, // Path to your Open Graph image in public folder
         width: 1200,
         height: 630,
         alt: 'Lịch Âm Việt Nam Thumbnail',
@@ -55,7 +55,12 @@ export const metadata: Metadata = {
     title: 'Lịch Âm Việt Nam - Tra Cứu Âm Lịch, Lễ Hội & Văn Khấn Chuẩn Xác',
     description: 'Tra cứu lịch âm dương, xem ngày tốt xấu, thông tin lễ hội truyền thống, và thư viện văn khấn chi tiết cho mọi dịp trong năm. Nguồn tài liệu văn hóa Việt chính xác và đầy đủ.',
     creator: '@yourtwitterhandle', // If you have one
-    images: [`${APP_URL}/images/og-image.jpg`], // Path to your Twitter image
+    images: [`${APP_URL}/images/v_lunar_cal.png`], // Path to your Twitter image
+  },
+  icons: {
+    icon: '/images/v_lunar_cal.png', // This will be your primary favicon
+    shortcut: '/images/v_lunar_cal.png', // For older browsers/devices
+    apple: '/images/v_lunar_cal.png', // For Apple touch icons
   },
     generator: 'v0.dev'
 };
