@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Tết Nguyên Đán",
+    "lunarDate": "1/1",
+    "description": "Tết cổ truyền lớn nhất của người Việt, là thời điểm chuyển giao giữa năm cũ và năm mới, dịp để gia đình sum họp.",
+    "traditions": ["Cúng gia tiên", "Lì xì", "Bánh chưng", "Xông đất", "Hoa mai, đào"],
+    "region": "Toàn quốc",
+    "type": "Lễ hội lớn"
+  },
+  {
+    "name": "Rằm tháng Giêng (Tết Nguyên Tiêu)",
+    "lunarDate": "15/1",
+    "description": "Ngày trăng tròn đầu tiên của năm mới, người dân thường đi chùa cầu an, cúng bái cho một năm an lành, may mắn.",
+    "traditions": ["Đi chùa", "Cúng rằm", "Ăn chè trôi nước", "Thả đèn hoa đăng"],
+    "region": "Toàn quốc",
+    "type": "Lễ hội tôn giáo"
+  },
+  {
+    "name": "Tết Hàn Thực",
+    "lunarDate": "3/3",
+    "description": "Lễ cúng tổ tiên với bánh trôi, bánh chay, thể hiện lòng thành kính và tưởng nhớ người đã khuất.",
+    "traditions": ["Bánh trôi", "Bánh chay", "Cúng tổ tiên", "Tảo mộ"],
+    "region": "Miền Bắc",
+    "type": "Lễ hội truyền thống"
+  },
+  {
+    "name": "Giỗ Tổ Hùng Vương",
+    "lunarDate": "10/3",
+    "description": "Ngày quốc lễ tưởng nhớ công ơn của các Vua Hùng đã có công dựng nước và giữ nước.",
+    "traditions": ["Dâng hương", "Lễ rước kiệu", "Hành hương về Phú Thọ"],
+    "region": "Toàn quốc",
+    "type": "Lễ hội lớn"
+  },
+  {
+    "name": "Lễ Phật Đản",
+    "lunarDate": "15/4",
+    "description": "Ngày kỷ niệm ngày sinh của Đức Phật Thích Ca Mâu Ni, là một trong những ngày lễ lớn của Phật giáo.",
+    "traditions": ["Tắm Phật", "Diễu hành xe hoa", "Nghe thuyết pháp", "Phóng sinh"],
+    "region": "Toàn quốc",
+    "type": "Lễ hội tôn giáo"
+  },
+  {
+    "name": "Tết Đoan Ngọ",
+    "lunarDate": "5/5",
+    "description": "Còn gọi là Tết diệt sâu bọ, là ngày lễ để cầu mong mùa màng bội thu và sức khỏe.",
+    "traditions": ["Ăn rượu nếp", "Trái cây", "Bánh ú tro", "Hái lá thuốc"],
+    "region": "Toàn quốc",
+    "type": "Lễ hội truyền thống"
+  },
+  {
+    "name": "Lễ Vu Lan",
+    "lunarDate": "15/7",
+    "description": "Lễ báo hiếu cha mẹ, tưởng nhớ tổ tiên và cầu siêu cho các vong hồn. Trùng với Tết Trung Nguyên của Đạo giáo.",
+    "traditions": ["Bông hồng cài áo", "Cúng gia tiên", "Ăn chay", "Cầu siêu"],
+    "region": "Toàn quốc",
+    "type": "Lễ hội tôn giáo"
+  },
+  {
+    "name": "Tết Trung Thu",
+    "lunarDate": "15/8",
+    "description": "Tết của trẻ em và sự đoàn viên. Mọi người cùng nhau phá cỗ, ngắm trăng và xem múa lân.",
+    "traditions": ["Bánh trung thu", "Đèn lồng", "Múa lân", "Phá cỗ ngắm trăng"],
+    "region": "Toàn quốc",
+    "type": "Lễ hội truyền thống"
+  },
+  {
+    "name": "Tết Ông Công, Ông Táo",
+    "lunarDate": "23/12",
+    "description": "Ngày cúng tiễn các vị Táo quân về trời để báo cáo công việc của gia chủ trong năm qua với Ngọc Hoàng.",
+    "traditions": ["Cúng cá chép", "Dọn dẹp bàn thờ", "Sắm sửa Tết"],
+    "region": "Toàn quốc",
+    "type": "Lễ hội truyền thống"
+  }
+]
